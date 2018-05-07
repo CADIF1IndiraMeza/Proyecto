@@ -1,0 +1,101 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: white;
+	color:#524c49;	
+}
+
+#encabezado{
+	margin-left: 800px;
+	margin-top: 9px;
+}
+
+#presentacion{
+	width: 100%;
+	background:#1abc9c;
+	color:#f8f9f9;
+	height: 200px;
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+	padding-top: 80px;
+	margin-top: 9px;
+}
+
+a{
+	display: block;
+}
+
+nav a{
+	text-decoration: none;
+	color: black;
+	font-family: bold 10px verdana;
+	text-align: center;
+	padding: 10px;
+	border-radius: 2px;
+
+}
+
+nav li{
+	display: inline-block;
+	width: 100px;
+}
+
+nav li a:hover{
+	background: #f5b041;
+	color: white;
+}
+
+.centrado{
+	margin-left: 130px;
+}
+
+.descarga a{
+	text-decoration: none;
+	color: white;
+	margin-left: 190px;
+	padding:10px;
+	background: blue;
+	border: 5px black;
+	border-radius: 2px;
+	display: inline-block;
+}
+
+span{
+	background: #b4164f;
+	padding: 5px;
+	color: white;
+}
+
+#pie-pagina{
+	text-align: center;
+}
+
+
+#redes-sociales{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#contenido article{
+	width: 46%;
+	float: left; 
+	margin: .5%;
+	border: 1px dashed black;
+	padding: .5%;
+	text-align: justify;
+	background: #fbf8f7;
+	color:#524c49;
+}
+
+aside{
+	clear:both;
+}
+
+
+
+
+
+
